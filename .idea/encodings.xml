@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.babelrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/actions/appleAction.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/AppleItem.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/appleItem.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/containers/AppleBasket.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/containers/appleBasket.less" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/AppleReducer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/reducers/AppleReducers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webpack.config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webpack.config/module.config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webpack.prod.config.js" charset="UTF-8" />
+  </component>
+</project>

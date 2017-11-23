@@ -1,0 +1,66 @@
+.appleBusket{
+  width: 500px;
+  margin: 50px;
+  border-radius: 4px;
+  border: 1px solid #dddddd;
+  >.title{
+    padding: 6px 0px;
+    text-align: center;
+    color: #069;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  >.stats{
+    width: 100%;
+    //border: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    padding: 10px 0;
+    display: flex;
+    .section{
+      display: inline-block;
+      width: 50%;
+      padding-left: 8px;
+      //flex: 1;
+      //text-align: center;
+      .head{
+        padding: 6px 0;
+        font-size: 16px;
+        color: #069;
+      }
+      .content{
+        font-size: 20px;
+        font-weight: 200;
+      }
+      &:first-of-type{
+        border-right: 1px solid #F0F0F0;
+      }
+    }
+  }
+  >.appleList{
+    padding: 10px 0;
+    .empty-tip{
+      text-align: center;
+      font-size: 16px;
+      color: #cccccc;
+      padding: 20px 0;
+    }
+  }
+  >.btn-div{
+    text-align: center;
+    button{
+      border: none;
+      background-color: #096;
+      color: #FFFFFF;
+      font-size: 14px;
+      cursor: pointer;
+      padding: 13px 50px;
+      border-radius: 6px;
+      margin: 20px auto;
+      outline: none;
+    }
+    button:hover{
+      background-color: #55d98d;
+    }
+  }
+}
